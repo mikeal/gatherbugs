@@ -1,1 +1,1 @@
-Use this issue tracker for logging and discussion bugs with gather.at
+Use this issue tracker for logging and discussion bugs with [gather.at](http://gather.at/).
